@@ -1,7 +1,7 @@
 What is this?
 =============
 
-Just backing up some code I'd written while I was at college. I'd placed these on a free text host site, where even copying code out didn't work properly. So I'm placing it here because, apparantly, people still have some use for this! Wow. :-|
+Just backing up some code I'd written while I was at college. I'd placed these on a free text host site, where even copying code out didn't work properly. So I'm placing everything here. Apparantly, people still have some use for this stuff! Wow. :-|
 
 I've updated [my blog post](http://harigopal.in/blog/?p=72) to point to this repository.
 
