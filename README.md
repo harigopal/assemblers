@@ -5,6 +5,11 @@ Just backing up some code I'd written while I was at college. I'd placed these o
 
 I've updated [my blog post](http://harigopal.in/blog/?p=72) to point to this repository.
 
+Hint
+----
+
+Both assemblers assume that the source is at "c:/cprogs/assemble.txt". Edit the file open statement and point it to input/assemble.s, wherever it is on your disk.
+
 Just for reference
 ------------------
 
